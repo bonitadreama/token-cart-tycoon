@@ -21,11 +21,12 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title,
     description,
+    icons: { icon: "/favicon.svg" },
     openGraph: {
       title,
       description,
       type: "website",
-      images: [{ url: image, width: 1662, height: 934, alt: title }],
+      images: [{ url: image, width: 1662, height: 946, alt: title }],
     },
     twitter: {
       card: "summary_large_image",

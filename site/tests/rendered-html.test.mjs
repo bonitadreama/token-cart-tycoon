@@ -38,6 +38,7 @@ test("server-renders the Token Cart game host and social metadata", async () => 
   assert.match(html, /src="\/game\/index\.html"/i);
   assert.match(html, /title="Play Token Cart Tycoon"/i);
   assert.match(html, /https:\/\/token-cart\.example\/og\.png/i);
+  assert.match(html, /href="\/favicon\.svg"/i);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape/i);
 });
 
