@@ -46,17 +46,19 @@ Day two demonstrates the tradeoff. I switch to the Deluxe Reasoner. Output quali
 
 Then I make the classic startup mistake: I market before verifying capacity. Demand jumps to twenty-two requests, but the stack can only serve eleven.
 
-### 2:09–2:29 — Show the educational consequence
+### 2:09–2:22 — Show the educational consequence
 
-Half the requests are dropped. Trust falls, users churn, and the lesson is immediate: demand without capacity becomes downtime and lost revenue. Thirty days of choices can end in rankings like Sustainable Startup, GPU Goblin, or Hype Bubble Casualty.
+Half the requests are dropped. Trust falls, users churn, and the lesson is immediate: demand without capacity becomes downtime and lost revenue. Over thirty days, choices compound into very different founder rankings.
 
-### 2:29–2:38 — Human and GPT-5.6 contributions
+### 2:22–2:38 — Human and GPT-5.6 contributions
 
-I made the core concept, education goals, gameplay rules, and final decisions. Codex with GPT-5.6 Sol Medium helped design and implement the simulation, interface, testing, and deployment. Token Cart Tycoon is free, open source, and playable now.
+I made the concept, education goals, gameplay rules, and final decisions. Codex with GPT-5.6 Sol Medium helped build and test the simulation, interface, and deployment. Token Cart Tycoon is free and playable now.
 
 ## Recording the voice track
 
-1. Open the silent MP4 and this script side by side.
+For the easiest recording, play `output/teleprompter/token-cart-tycoon-teleprompter.mp4`. Start the audio recorder first, then start the teleprompter. Do not read the countdown or section labels. Begin speaking on GO; the five-second lead-in will be removed when the narration is aligned to the gameplay.
+
+1. Open the teleprompter video or the silent gameplay MP4 and this script side by side.
 2. Use Windows Sound Recorder, a phone voice memo, or any microphone recorder.
 3. Begin speaking immediately after pressing record; a small natural pause is fine.
 4. Save the recording as WAV, M4A, or MP3.
