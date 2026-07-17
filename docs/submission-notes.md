@@ -6,8 +6,8 @@
 - **Category:** Education
 - **Format:** One-page browser game
 - **Primary Codex `/feedback` Session ID:** `ADD BEFORE SUBMISSION`
-- **Repository URL:** `ADD BEFORE SUBMISSION`
-- **Live project URL:** `ADD BEFORE SUBMISSION`
+- **Repository URL:** https://github.com/bonitadreama/token-cart-tycoon
+- **Live project URL:** https://token-cart-tycoon.bonitadreama.chatgpt.site
 - **Public YouTube demo URL:** `ADD BEFORE SUBMISSION`
 
 ## Description draft
@@ -52,9 +52,9 @@ Token Cart Tycoon is a cozy-chaotic educational strategy game about the first 30
 - [ ] Confirm every action, collapse state, Day 30 ending, restart, and play-again flow.
 - [ ] Review all copy and balance values.
 - [ ] Add the primary `/feedback` Session ID.
-- [ ] Add repository and live project URLs.
+- [x] Add repository and live project URLs.
 - [ ] Publish a narrated public YouTube demo under three minutes.
 - [ ] Confirm the video explains how Codex/GPT-5.6 were used.
-- [ ] Confirm the repository license and judging access.
+- [x] Confirm the repository license and judging access.
 - [ ] Keep the working build free and available through judging.
 - [ ] Re-check the official submission form for any updated requirements.

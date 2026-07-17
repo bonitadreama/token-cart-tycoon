@@ -4,6 +4,10 @@
 
 The project was created for OpenAI Build Week 2026 in the **Education** category.
 
+## Play online
+
+Play the public release on [ChatGPT Sites](https://token-cart-tycoon.bonitadreama.chatgpt.site). The submission source is available in the [public GitHub repository](https://github.com/bonitadreama/token-cart-tycoon).
+
 ## Run locally
 
 This is a dependency-free static web project. Because it uses JavaScript modules, serve the folder locally instead of double-clicking `index.html`:
@@ -89,7 +93,7 @@ All balance values, wording, final deployment, and submission materials remain s
 
 ## Submission checklist
 
-Before submitting, add the repository, live build, public narrated YouTube demo, and primary `/feedback` Codex Session ID to `docs/submission-notes.md`. Confirm the final requirements in `RULES.md`.
+Before submitting, add the public narrated YouTube demo and primary `/feedback` Codex Session ID to `docs/submission-notes.md`. Confirm the final requirements in `RULES.md`.
 
 ## License
 
